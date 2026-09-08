@@ -1,0 +1,76 @@
+/*
+COLOR PALETTE
+
+Dark Blue: #1D3557
+Blue:      #457B9D
+Light Blue:#A8DADC
+White:     #FFFFFF
+Dark Gray: #333333
+
+FONTS
+
+Headings: Georgia
+Text: Arial
+*/
+
+
+/* Styles the entire page */
+body {
+    background-color: #A8DADC;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+/* Styles the header */
+header {
+    background-color: #1D3557;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* Styles the main heading */
+h1 {
+    font-family: Georgia, serif;
+}
+
+
+/* Styles section headings */
+h2 {
+    color: #1D3557;
+    font-family: Georgia, serif;
+}
+
+
+/* Styles the main content */
+main {
+    background-color: #FFFFFF;
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+
+/* Styles paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+
+/* Styles links */
+a {
+    color: #457B9D;
+    font-weight: bold;
+}
+
+
+/* Changes links when the mouse is over them */
+a:hover {
+    color: #1D3557;
+}
+
